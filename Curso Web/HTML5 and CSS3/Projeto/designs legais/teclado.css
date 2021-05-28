@@ -1,0 +1,67 @@
+html {
+  box-sizing: border-box;
+  
+}
+
+body{
+    background-color: darkgray;
+    align-items: center;
+}
+
+.keyboard {
+  border: 1px solid white;
+  width: 900px;
+  height: 500px;
+  margin-left: 240px;
+  margin-top: 80px;
+  border-radius: 10px;
+}
+
+
+
+.key {
+  border: 1px solid transparent;
+  border-radius: 10px;
+  font-size: 35px;
+  text-align: center;
+}
+
+#n1 {
+  background-color: chocolate;
+}
+
+#n2 {
+  background-color: crimson;
+}
+
+#n3 {
+  background-color: greenyellow;
+}
+
+#n4 {
+  background-color: yellow;
+}
+
+#n5 {
+  background-color: blueviolet;
+}
+
+#n6 {
+  background-color: palevioletred;
+}
+
+#n7 {
+  background-color: royalblue;
+}
+
+#n8 {
+  background-color: aquamarine;
+}
+
+#n9 {
+  background-color: deeppink;
+}
+
+#n0 {
+  background-color: tomato;
+}
